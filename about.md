@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 # About
 
 # Hi! Im Suraj Ganesh
