@@ -4,4 +4,4 @@ Welcome to my portfolio.
 This includes my resume.
 
 ## Resume
-[Download my resume](resume.docx)
+[Download my resume](Resume 2025.docx)
